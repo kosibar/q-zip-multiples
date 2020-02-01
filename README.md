@@ -4,6 +4,8 @@ A very basic example compression program created for a Quora answer.
 
 This is very simplistic and will actually enlarge most files.
 
+I chose PHP because its syntax is easy for most people with programming experience to understand __and__ it's available by default on many operating systems and easy to install on those which do not have it.
+
 Some might dislike the heavy commenting. This is not intended to be serious code but rather instructional. I expect that people who don't know PHP will be reading it.
 
 
